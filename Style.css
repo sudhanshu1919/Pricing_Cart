@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.Main-Con {
+  /* background-color: rgb(225, 226, 227); */
+  height: 800px;
+}
+.Heding-text h4 {
+  text-align: center;
+  font-size: 20px;
+  margin: 10px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: royalblue;
+}
+
+.Pricing-text {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+.Pricing-text h4 {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* Cart Css Start */
+
+.main-cart {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.text-amount1 {
+  font-size: 33px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.text-amount2 {
+  color: rgb(166, 164, 164);
+  font-size: 31px;
+}
+button {
+  color: aliceblue !important;
+  border-radius: 3px !important;
+}
+button:hover {
+  color: royalblue !important;
+  background-color: transparent !important;
+  border: 1px solid royalblue !important;
+}
+
+/* Cart Css End */
